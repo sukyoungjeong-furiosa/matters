@@ -1,0 +1,15 @@
+# Local application bundles and build staging.
+/*.app/
+/*.zip
+
+# Personal usage notes are not part of the public source.
+/*.txt
+
+# Local dependencies, caches, and editor state.
+node_modules/
+.DS_Store
+.swiftpm/
+.build/
+*.xcuserstate
+.env
+.env.*

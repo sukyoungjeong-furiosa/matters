@@ -1,0 +1,4 @@
+* text=auto
+# Preserve significant whitespace inside generated JavaScript template literals.
+Source/Resources/rich-editor.js -text -whitespace linguist-generated=true
+Source/Resources/Editor-LICENSES.txt linguist-generated=true
